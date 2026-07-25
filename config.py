@@ -24,7 +24,3 @@ CHUNKING_VERSION = "word_chunker_v1"
 #Retrieval_settings
 TOP_K=3
 DISTANCE_METRIC="cosine"
-
-# Remove database records when a PDF is removed
-PRUNE_DELETED_FILES = True
-
